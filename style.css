@@ -23,6 +23,7 @@ h1{
 .answer{
     font-size: 13pt;
     padding: 1rem;
+    padding-bottom: 2rem;
     border-radius: 10px;
     color: #555;
 }
@@ -32,6 +33,7 @@ h1{
     color: #282828;
     margin-top: 1em;
     padding: 1rem;
+    padding-bottom: 2rem;
 }
 
 a{
@@ -46,22 +48,26 @@ a{
     padding-left: 1rem;
     padding-right: 1rem;
     border-radius: 10px;
+    margin-bottom: 2rem;
 }
 .set2{
     background-color: rgb(252, 210, 236);
     padding-left: 1rem;
     padding-right: 1rem;
     border-radius: 10px;
+    margin-bottom: 2rem;
 }
 .set3{
     background-color: rgb(252, 210, 236);
     padding-left: 1rem;
     padding-right: 1rem;
     border-radius: 10px;
+    margin-bottom: 2rem;
 }
 .set4{
     background-color: rgb(252, 210, 236);
     padding-left: 1rem;
     padding-right: 1rem;
     border-radius: 10px;
+    margin-bottom: 2rem;
 }
