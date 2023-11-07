@@ -1,0 +1,67 @@
+
+body{
+max-width: 800px;
+margin: 0 auto;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(249, 243, 255);
+padding: 4em 1em;
+
+}
+
+h1{
+    margin-top: 62px;
+}
+
+.question{
+    font-size: 14pt;
+    color: #282828;
+    margin-top: 1em;
+    padding-top: 1em;
+
+}
+
+.answer{
+    font-size: 13pt;
+    padding: 1rem;
+    border-radius: 10px;
+    color: #555;
+}
+
+.inspo{
+    font-size: 14pt;
+    color: #282828;
+    margin-top: 1em;
+    padding: 1rem;
+}
+
+a{
+    font-size: 12pt;
+    color: #aa0a0a;
+    text-decoration:none;
+
+}
+
+.set1{
+    background-color: rgb(252, 210, 236);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+}
+.set2{
+    background-color: rgb(252, 210, 236);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+}
+.set3{
+    background-color: rgb(252, 210, 236);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+}
+.set4{
+    background-color: rgb(252, 210, 236);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+}
